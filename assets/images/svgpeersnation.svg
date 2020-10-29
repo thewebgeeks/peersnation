@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666667 8.4666667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient35">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="0"
+         id="stop31" />
+      <stop
+         style="stop-color:#ffd5d5;stop-opacity:1"
+         offset="1"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient35"
+       id="linearGradient37"
+       x1="0.13363476"
+       y1="8.8365984"
+       x2="5.4456167"
+       y2="4.9110775"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96668792,0,0,0.95297315,0.14122056,0.19844318)" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path10"
+       cx="4.1343255"
+       cy="4.5519342"
+       rx="3.5496733"
+       ry="4.2345514" />
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path12"
+       cx="6.2223687"
+       cy="4.5769906"
+       rx="0.79345644"
+       ry="2.5390606" />
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path14"
+       cx="2.271791"
+       cy="2.2467346"
+       rx="1.1693041"
+       ry="0.49277818" />
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path27"
+       cx="3.9756341"
+       cy="2.8814995"
+       rx="2.3051996"
+       ry="1.979465" />
+    <path
+       style="fill:url(#linearGradient37);fill-opacity:1;stroke-width:0.315071"
+       id="path29"
+       d="M 8.3766441,4.2197852 A 4.121819,4.0690985 0 0 1 4.2580997,8.2888824 4.121819,4.0690985 0 0 1 0.1330113,4.2262506 4.121819,4.0690985 0 0 1 4.2450014,0.1506983 4.121819,4.0690985 0 0 1 8.3766233,4.2068544 l -4.1217982,0.012931 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.572px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:center;text-anchor:middle;stroke-width:0.264583;"
+       x="4.2930164"
+       y="3.6081386"
+       id="text41"><tspan
+         id="tspan39"
+         x="4.2930164"
+         y="3.6081386"
+         style="stroke-width:0.264583;font-size:4.572px;" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.064px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:center;text-anchor:middle;stroke-width:0.366032"
+       x="4.2506404"
+       y="5.6702724"
+       id="text52"
+       transform="scale(1.0335707,0.9675197)"><tspan
+         x="4.2506404"
+         y="5.6702724"
+         style="font-size:4.064px;fill:#ffffff;stroke-width:0.366032"
+         id="tspan54">PN!</tspan></text>
+  </g>
+</svg>
