@@ -1,0 +1,50 @@
+.fade-ino {
+    animation: fadeIno ease 12s;
+    -webkit-animation: fadeIno ease 12s;
+    -moz-animation: fadeIno ease 12s;
+    -o-animation: fadeIno ease 12s;
+    -ms-animation: fadeIno ease 12s;
+  }
+  @keyframes fadeIno {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-moz-keyframes fadeIno {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-webkit-keyframes fadeIno {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-o-keyframes fadeIno {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-ms-keyframes fadeIno {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+  }
