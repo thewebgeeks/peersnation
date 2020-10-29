@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/assets/css/styles.css">
+        <link rel = "icon" href = "/assets/images/svgpeersnation.svg" type = "image/x-icon">
+        <title>Browse | Peers Nation</title>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+            </style>
+    </head>
+    <body>
+
+        <div class="header" id="myHeader">
+            <a href="/index.html">
+            <img src="/assets/images/peersnation-header-logo.svg" alt="Logo Header" width="200" height="100" class="center"></a>
+          </div>
+
+          
+          <br>
+
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <div>
+              <br>
+              <img src="/assets/images/svgpeersnation.svg" alt=" Main Logo " width="300" height="300" class="center">
+          </div>
+          <div>
+              <h2 style="text-align: center;">Browse by Categories</h2>
+              <br>
+              <br>
+              <div class="column">
+                <div class="smallcard">
+                  <h4>Chrome Dino Game</h4>
+                  <img src="/assets/images/chromedino.gif" width="300" height="200">
+                  <br>
+                  <br>
+                  <a href="/chromedino.html" class="button" target="_blank">Play now!</a>
+                  
+                </div>
+              </div>
+          </div>
+
+
+          <script>
+            window.onscroll = function() {HeaderScroll()};
+            
+            // Get the header
+            var header = document.getElementById("myHeader");
+            
+            // Get the offset position of the navbar
+            var sticky = header.offsetTop;
+            
+            // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+            function HeaderScroll() {
+              if (window.pageYOffset > sticky) {
+                header.classList.add("sticky");
+              } else {
+                header.classList.remove("sticky");
+              }
+            }
+        </script>
+    </body>
+</html>
